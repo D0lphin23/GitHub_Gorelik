@@ -2,4 +2,4 @@ git commit -am
 
 git commit -m "" file 4.txt
 
-git show
+pwoverka funkzii - git show
