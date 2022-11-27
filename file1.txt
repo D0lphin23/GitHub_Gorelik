@@ -3,3 +3,5 @@ git commit -am
 git commit -m "" file 4.txt
 
 proverka funkzii - git show
+
+git diff
