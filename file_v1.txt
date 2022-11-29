@@ -1,1 +1,3 @@
 Тест различных команд:
+git stash
+git stash pop
