@@ -1,3 +1,5 @@
-Сейчас будем проверять команду git reset --hard номер коммита
+Priverka komandy git reset --hard nomer_commit
 
-Добавляю новые строки для коммитов
+Dobavlyau novie stroki dlya commit
+
+Proverka komandy git show nomer_commit:file6.txt
