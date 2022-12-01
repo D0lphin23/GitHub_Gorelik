@@ -1,4 +1,4 @@
-Priverka komandy git reset --hard nomer_commit
+Proverka komandy git reset --hard nomer_commit
 
 Dobavlyau novie stroki dlya commit
 
